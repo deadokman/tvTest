@@ -1,4 +1,4 @@
-create table TV_AVAILABLE_FUNCTIONALITY
+1create table TV_AVAILABLE_FUNCTIONALITY
 (
     func_id raw(16) default sys_guid() primary key,
     func_tag varchar2(16) not null,
@@ -17,7 +17,7 @@ create table TV_USERS_ROLES
 alter table TV_USERS_ROLES add constraint TV_USERS_ROLES_PK PRIMARY KEY (role_id);
 
 
-create table TV_USERS_DATA
+create table TV_USERS_DATA1
 (
     user_data_id number primary key,
     name varchar2(150),
