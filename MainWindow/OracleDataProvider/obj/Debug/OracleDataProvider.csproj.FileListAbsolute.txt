@@ -1,0 +1,8 @@
+G:\OracleTestConection\ConsoleApplication1\ConsoleApplication1\bin\Debug\DataProvider.pdb
+G:\OracleTestConection\ConsoleApplication1\ConsoleApplication1\obj\Debug\DataProvider.pdb
+G:\OracleTestConection\ConsoleApplication1\ConsoleApplication1\bin\Debug\Oracle.DataAccess.dll
+G:\OracleTestConection\ConsoleApplication1\ConsoleApplication1\bin\Debug\DataProvider.dll.config
+G:\OracleTestConection\ConsoleApplication1\ConsoleApplication1\bin\Debug\DataProvider.dll
+G:\OracleTestConection\ConsoleApplication1\ConsoleApplication1\obj\Debug\DataProvider.dll
+G:\OracleTestConection\ConsoleApplication1\ConsoleApplication1\obj\Debug\OracleDataProvider.csprojResolveAssemblyReference.cache
+G:\OracleTestConection\ConsoleApplication1\ConsoleApplication1\bin\Debug\LibGit2Sharp.dll

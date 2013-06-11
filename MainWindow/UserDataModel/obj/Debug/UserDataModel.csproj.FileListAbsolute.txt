@@ -1,0 +1,4 @@
+G:\TvEfirListGenerator\MainWindow\UserDataModel\bin\Debug\UserDataModel.dll
+G:\TvEfirListGenerator\MainWindow\UserDataModel\bin\Debug\UserDataModel.pdb
+G:\TvEfirListGenerator\MainWindow\UserDataModel\obj\Debug\UserDataModel.dll
+G:\TvEfirListGenerator\MainWindow\UserDataModel\obj\Debug\UserDataModel.pdb

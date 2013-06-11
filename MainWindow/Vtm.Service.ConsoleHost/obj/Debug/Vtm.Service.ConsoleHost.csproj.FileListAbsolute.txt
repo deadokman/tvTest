@@ -1,0 +1,12 @@
+G:\TvEfirListGenerator\MainWindow\Vtm.Service.ConsoleHost\bin\Debug\Vtm.Service.ConsoleHost.exe.config
+G:\TvEfirListGenerator\MainWindow\Vtm.Service.ConsoleHost\bin\Debug\Vtm.Service.ConsoleHost.exe
+G:\TvEfirListGenerator\MainWindow\Vtm.Service.ConsoleHost\bin\Debug\Vtm.Service.ConsoleHost.pdb
+G:\TvEfirListGenerator\MainWindow\Vtm.Service.ConsoleHost\bin\Debug\DataProvider.dll
+G:\TvEfirListGenerator\MainWindow\Vtm.Service.ConsoleHost\bin\Debug\Tvm.Service.dll
+G:\TvEfirListGenerator\MainWindow\Vtm.Service.ConsoleHost\bin\Debug\UserDataModel.dll
+G:\TvEfirListGenerator\MainWindow\Vtm.Service.ConsoleHost\bin\Debug\DataProvider.pdb
+G:\TvEfirListGenerator\MainWindow\Vtm.Service.ConsoleHost\bin\Debug\Tvm.Service.pdb
+G:\TvEfirListGenerator\MainWindow\Vtm.Service.ConsoleHost\bin\Debug\UserDataModel.pdb
+G:\TvEfirListGenerator\MainWindow\Vtm.Service.ConsoleHost\obj\Debug\Vtm.Service.ConsoleHost.csprojResolveAssemblyReference.cache
+G:\TvEfirListGenerator\MainWindow\Vtm.Service.ConsoleHost\obj\Debug\Vtm.Service.ConsoleHost.exe
+G:\TvEfirListGenerator\MainWindow\Vtm.Service.ConsoleHost\obj\Debug\Vtm.Service.ConsoleHost.pdb

@@ -1,0 +1,17 @@
+﻿declare
+	CNT INTEGER:=0;
+begin
+	SELECT COUNT(*) INTO CNT
+		FROM USER_INDEXES
+			WHERE INDEX_NAME = UPPER('%INDEX_NAME%');
+	IF(CNT=0) THEN
+		EXECUTE IMMEDIATE 'CREATE INDEX %INDEX_NAME% ON %TABLE_NAME% (
+		%COLUMNS%
+		)';
+		DBMS_OUTPUT.PUT_LINE('Индекс %INDEX_NAME% создан');
+	else
+		DBMS_OUTPUT.PUT_LINE('Индекс %INDEX_NAME% уже существует');
+	end if;
+end;
+/
+SHOW ERRORS

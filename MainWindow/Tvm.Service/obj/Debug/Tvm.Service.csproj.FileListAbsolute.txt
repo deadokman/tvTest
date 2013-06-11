@@ -1,0 +1,10 @@
+G:\TvEfirListGenerator\MainWindow\Tvm.Service\bin\Debug\Tvm.Service.dll.config
+G:\TvEfirListGenerator\MainWindow\Tvm.Service\bin\Debug\Tvm.Service.dll
+G:\TvEfirListGenerator\MainWindow\Tvm.Service\bin\Debug\Tvm.Service.pdb
+G:\TvEfirListGenerator\MainWindow\Tvm.Service\obj\Debug\Tvm.Service.csprojResolveAssemblyReference.cache
+G:\TvEfirListGenerator\MainWindow\Tvm.Service\obj\Debug\Tvm.Service.dll
+G:\TvEfirListGenerator\MainWindow\Tvm.Service\obj\Debug\Tvm.Service.pdb
+G:\TvEfirListGenerator\MainWindow\Tvm.Service\bin\Debug\DataProvider.dll
+G:\TvEfirListGenerator\MainWindow\Tvm.Service\bin\Debug\UserDataModel.dll
+G:\TvEfirListGenerator\MainWindow\Tvm.Service\bin\Debug\DataProvider.pdb
+G:\TvEfirListGenerator\MainWindow\Tvm.Service\bin\Debug\UserDataModel.pdb

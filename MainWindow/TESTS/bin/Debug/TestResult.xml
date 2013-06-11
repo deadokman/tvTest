@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="G:\OracleTestConection\ConsoleApplication1\TESTS\bin\Debug\TESTS.dll" total="10" errors="0" failures="4" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2013-03-20" time="21:48:17">
+  <environment nunit-version="2.6.2.12296" clr-version="4.0.30319.17929" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="G:\OracleTestConection\ConsoleApplication1\TESTS\bin\Debug" machine-name="DEADOK-ПК" user="Deadok" user-domain="Deadok-ПК" />
+  <culture-info current-culture="ru-RU" current-uiculture="ru-RU" />
+  <test-suite type="Assembly" name="G:\OracleTestConection\ConsoleApplication1\TESTS\bin\Debug\TESTS.dll" executed="True" result="Failure" success="False" time="65.499" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="TESTS" executed="True" result="Failure" success="False" time="65.484" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="DataLoadFromTestTab" executed="True" result="Success" success="True" time="1.056" asserts="0">
+            <results>
+              <test-case name="TESTS.DataLoadFromTestTab.TestDataLoad" executed="True" result="Success" success="True" time="0.985" asserts="0" />
+              <test-case name="TESTS.DataLoadFromTestTab.TestRowItem" executed="True" result="Success" success="True" time="0.026" asserts="2" />
+              <test-case name="TESTS.DataLoadFromTestTab.TestSetValByIndex" executed="True" result="Success" success="True" time="0.004" asserts="2" />
+              <test-case name="TESTS.DataLoadFromTestTab.TestTableInformationItemData" executed="True" result="Success" success="True" time="0.007" asserts="6" />
+              <test-case name="TESTS.DataLoadFromTestTab.TestTableSelectQuery" executed="True" result="Success" success="True" time="0.000" asserts="2" />
+            </results>
+          </test-suite>
+          <test-suite type="TestFixture" name="ObjectVariantCacheTests" executed="True" result="Failure" success="False" time="64.424" asserts="0">
+            <results>
+              <test-case name="TESTS.ObjectVariantCacheTests.TestForFullHistorySlots" executed="True" result="Success" success="True" time="0.307" asserts="1" />
+              <test-case name="TESTS.ObjectVariantCacheTests.TestForHistortSlot" executed="True" result="Failure" success="False" time="53.798" asserts="1">
+                <failure>
+                  <message><![CDATA[  Expected: 1
+  But was:  0
+]]></message>
+                  <stack-trace><![CDATA[в TESTS.ObjectVariantCacheTests.TestForHistortSlot() в g:\OracleTestConection\ConsoleApplication1\TESTS\ObjectVariantCacheTests.cs:строка 51
+]]></stack-trace>
+                </failure>
+              </test-case>
+              <test-case name="TESTS.ObjectVariantCacheTests.TestForNewObjAdd" executed="True" result="Failure" success="False" time="4.780" asserts="2">
+                <failure>
+                  <message><![CDATA[  Expected: True
+  But was:  False
+]]></message>
+                  <stack-trace><![CDATA[в TESTS.ObjectVariantCacheTests.TestForNewObjAdd() в g:\OracleTestConection\ConsoleApplication1\TESTS\ObjectVariantCacheTests.cs:строка 116
+]]></stack-trace>
+                </failure>
+              </test-case>
+              <test-case name="TESTS.ObjectVariantCacheTests.TestForVariantAdd" executed="True" result="Failure" success="False" time="4.568" asserts="1">
+                <failure>
+                  <message><![CDATA[  Expected: 2
+  But was:  0
+]]></message>
+                  <stack-trace><![CDATA[в TESTS.ObjectVariantCacheTests.TestForVariantAdd() в g:\OracleTestConection\ConsoleApplication1\TESTS\ObjectVariantCacheTests.cs:строка 93
+]]></stack-trace>
+                </failure>
+              </test-case>
+              <test-case name="TESTS.ObjectVariantCacheTests.VariantLoaderTest" executed="True" result="Failure" success="False" time="0.753" asserts="1">
+                <failure>
+                  <message><![CDATA[  Expected: 6
+  But was:  457
+]]></message>
+                  <stack-trace><![CDATA[в TESTS.ObjectVariantCacheTests.VariantLoaderTest() в g:\OracleTestConection\ConsoleApplication1\TESTS\ObjectVariantCacheTests.cs:строка 30
+]]></stack-trace>
+                </failure>
+              </test-case>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

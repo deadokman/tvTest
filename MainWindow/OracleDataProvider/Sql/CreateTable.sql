@@ -1,0 +1,17 @@
+﻿declare
+	CNT INTEGER:=0;
+begin
+	SELECT COUNT(*) INTO CNT
+		FROM USER_OBJECTS
+			WHERE OBJECT_NAME = UPPER('%TABLE_NAME%') AND OBJECT_TYPE='TABLE';
+	IF(CNT=0) THEN
+		EXECUTE IMMEDIATE 'CREATE TABLE %TABLE_NAME% (
+							%COLUMNS%
+							)';
+		DBMS_OUTPUT.PUT_LINE('Таблица %TABLE_NAME% создана');
+	else
+		DBMS_OUTPUT.PUT_LINE('Таблица %TABLE_NAME% уже существует');
+	end if;
+end;
+/
+SHOW ERRORS

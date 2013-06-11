@@ -1,0 +1,9 @@
+G:\TvEfirListGenerator\MainWindow\MainWindow\bin\Debug\MainWindow.exe.config
+G:\TvEfirListGenerator\MainWindow\MainWindow\bin\Debug\MainWindow.exe
+G:\TvEfirListGenerator\MainWindow\MainWindow\bin\Debug\MainWindow.pdb
+G:\TvEfirListGenerator\MainWindow\MainWindow\obj\Debug\MainForm.csprojResolveAssemblyReference.cache
+G:\TvEfirListGenerator\MainWindow\MainWindow\obj\Debug\MainWindow.MainForm.resources
+G:\TvEfirListGenerator\MainWindow\MainWindow\obj\Debug\MainWindow.Properties.Resources.resources
+G:\TvEfirListGenerator\MainWindow\MainWindow\obj\Debug\MainForm.csproj.GenerateResource.Cache
+G:\TvEfirListGenerator\MainWindow\MainWindow\obj\Debug\MainWindow.exe
+G:\TvEfirListGenerator\MainWindow\MainWindow\obj\Debug\MainWindow.pdb

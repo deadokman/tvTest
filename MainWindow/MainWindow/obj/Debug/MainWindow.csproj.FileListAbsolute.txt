@@ -1,0 +1,1 @@
+G:\TvEfirListGenerator\MainWindow\MainWindow\bin\Debug\MainWindow.exe.config

@@ -1,0 +1,9 @@
+G:\TvEfirListGenerator\MainWindow\LoginFormView\bin\Debug\LoginFormView.exe.config
+G:\TvEfirListGenerator\MainWindow\LoginFormView\bin\Debug\LoginFormView.exe
+G:\TvEfirListGenerator\MainWindow\LoginFormView\bin\Debug\LoginFormView.pdb
+G:\TvEfirListGenerator\MainWindow\LoginFormView\obj\Debug\LoginForm.csprojResolveAssemblyReference.cache
+G:\TvEfirListGenerator\MainWindow\LoginFormView\obj\Debug\LoginFormView.LoginFormView.resources
+G:\TvEfirListGenerator\MainWindow\LoginFormView\obj\Debug\LoginFormView.Properties.Resources.resources
+G:\TvEfirListGenerator\MainWindow\LoginFormView\obj\Debug\LoginForm.csproj.GenerateResource.Cache
+G:\TvEfirListGenerator\MainWindow\LoginFormView\obj\Debug\LoginFormView.exe
+G:\TvEfirListGenerator\MainWindow\LoginFormView\obj\Debug\LoginFormView.pdb

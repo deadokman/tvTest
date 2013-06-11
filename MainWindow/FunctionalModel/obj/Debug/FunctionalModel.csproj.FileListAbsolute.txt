@@ -1,0 +1,5 @@
+G:\TvEfirListGenerator\MainWindow\FunctionalModel\bin\Debug\FunctionalModel.dll
+G:\TvEfirListGenerator\MainWindow\FunctionalModel\bin\Debug\FunctionalModel.pdb
+G:\TvEfirListGenerator\MainWindow\FunctionalModel\obj\Debug\FunctionalModel.csprojResolveAssemblyReference.cache
+G:\TvEfirListGenerator\MainWindow\FunctionalModel\obj\Debug\FunctionalModel.dll
+G:\TvEfirListGenerator\MainWindow\FunctionalModel\obj\Debug\FunctionalModel.pdb
